@@ -119,14 +119,14 @@
                                     image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/interchain.png
                                 },
                                 {
+                                    name: 'Tendermint',
+                                    link: 'https://tendermint.com/',
+                                    image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/tendermint.png
+                                },
+                                {
                                     name: 'HashKey',
                                     link: 'https://www.hashkey.com/#/',
                                     image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/HashKey.png
-                                },
-                                {
-                                    name: 'PlatON',
-                                    link: 'https://www.platon.network/#/index',
-                                    image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/Platon.png
                                 }
                             ]
                     },
@@ -136,13 +136,28 @@
                             [
                                 {
                                     name: 'BINANCE',
-                                    link: 'https://www.binance.com/zh-CN',
+                                    link: 'https://www.binance.com',
                                     image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/BINANCE.png
                                 },
                                 {
                                     name: 'Chainlink',
                                     link: 'https://chain.link/',
                                     image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/collaboration.png
+                                },
+                                {
+                                    name: 'Uptick',
+                                    link: 'https://www.uptick.network/#/',
+                                    image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/Uptick.png
+                                },
+                                {
+                                    name: 'Gravity Bridge',
+                                    link: 'https://www.gravitybridge.net/',
+                                    image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/GravityBridge.png
+                                },
+                                {
+                                    name: 'CertiK',
+                                    link: 'https://www.certik.com/',
+                                    image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/CertiK.png
                                 },
                                 {
                                     name: 'CoinMarketCap',
@@ -185,19 +200,9 @@
                                     image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/Cronos.png
                                 },
                                 {
-                                    name: 'Uptick',
-                                    link: 'https://www.uptick.network/#/',
-                                    image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/Uptick.png
-                                },
-                                {
-                                    name: 'Gravity Bridge',
-                                    link: 'https://www.gravitybridge.net/',
-                                    image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/GravityBridge.png
-                                },
-                                {
-                                    name: 'CertiK',
-                                    link: 'https://www.certik.com/',
-                                    image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/CertiK.png
+                                    name: 'PlatON',
+                                    link: 'https://www.platon.network/#/index',
+                                    image: https://storage.googleapis.com/irisnet_asia_resources/irisnet.org/home/collaboration/Platon.png
                                 }
                             ]
                     }
